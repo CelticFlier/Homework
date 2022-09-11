@@ -1,0 +1,5 @@
+//This Lecture will introduce
+//basics of variables and operators
+
+Public Class VariableOperatorInto {
+	}
